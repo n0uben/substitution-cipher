@@ -1,6 +1,7 @@
 # Substitution cipher
 
-Projet réalisé dans le cadre du CS50x d’Harvard.
+Substitution cypher to encrypt text with a 26 letters key. 
+Project realized for the Harvard CS50x course.
 
 ## Utilisation
 
